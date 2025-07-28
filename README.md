@@ -1,4 +1,4 @@
-# Flash-Level
+# Smart Homes Flash Level
 Androids Assignment
 Overview
 A customizable flashlight application designed to provide optimal lighting solutions for content creators and photography enthusiasts while maintaining consideration for shared living spaces. The app features adjustable brightness settings and color-themed lighting options to accommodate various lighting needs and preferences.
