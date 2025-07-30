@@ -15,5 +15,4 @@ Shared Spaces: Considerate lighting options for roommate situations
 Night Activities: Appropriate lighting levels for evening use
 General Purpose: Standard flashlight functionality for everyday needs
 
-
 Designed with shared living spaces in mind -  I shouldn't have to suffer with extreme light above my head because my roommate wants to read.
