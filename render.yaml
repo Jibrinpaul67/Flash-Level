@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: my-flash-level
+    env: java
+    buildCommand: ./gradlew fatJar
+    startCommand: java -jar build/libs/your-app-name-all.jar
+    envVars:
+      - key: PORT
+        value: 8080
